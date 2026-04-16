@@ -32,6 +32,5 @@ Example:
 ## Files to keep as backup
 
 - Original `boot.img`
-- Patched `magisk_patched.img`
 - Stock firmware package
 - Working GSI image
