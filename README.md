@@ -26,6 +26,7 @@ This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 - Model: Samsung Galaxy A02 (SM-A022F/DS)
 - Android base: Android 11
 - CPU: Mediatek MT6739WW (arm-v7a)
+- Bootloader build: `A022FXS3BWH1`
 - Bootloader state: unlocked
 
 ## What this guide covers
