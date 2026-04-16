@@ -39,7 +39,7 @@ This guide explains how to root the device using Magisk on stock firmware.
 **Firmware**
 
 - Official SM-A022F/DS firmware — `AP_*.tar.md5` package
-- [SM-A022F/DS](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1)
+- Download [SM-A022F/DS](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1) firmware here.
 
 ## Steps
 
