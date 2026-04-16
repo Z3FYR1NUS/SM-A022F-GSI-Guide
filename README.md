@@ -5,17 +5,21 @@ This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 - This device is Ass.
 - I hate MT6739ww
 
-## Warning
-
-This guide is intended for advanced users only.
-
-Flashing a GSI may cause:
-
-- bootloops
-- data loss
-- broken camera / Bluetooth / SIM features
-- temporary or permanent system instability
-  Proceed at your own risk.
+> # ⚠️ WARNING ⚠️
+>
+> ## THIS WILL VOID YOUR WARRANTY
+>
+> **This guide is intended for advanced users only.**
+>
+> Flashing a GSI **will** wipe all your data and **may permanently damage** your device.
+>
+> - 💀 Bootloops with no recovery
+> - 🗑️ Complete data loss
+> - 📵 Broken camera, Bluetooth, and SIM
+> - 🔥 Permanent system instability
+> - 🧱 Soft-brick or hard-brick
+>
+> **You have been warned. Proceed at your own risk.**
 
 ## My Device
 
