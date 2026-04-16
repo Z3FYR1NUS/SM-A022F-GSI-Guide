@@ -58,6 +58,8 @@ Recommended example:
 - `flashing_guide.md` — step-by-step install guide
 - `troubleshooting.md` — common issues and fixes
 - `Unlock_bootloader.md` - Unlock bootloader
+- `root.md` - root the phone
+- `contribution.md` - guide on contribution
 
 ## Important notes
 
