@@ -72,6 +72,10 @@ Recommended example:
 - Samsung firmware tools community
 - XDA forum (https://shorturl.at/WuyPj)
 
+## Contribution
+
+- Read `contribution.md`
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
