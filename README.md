@@ -54,12 +54,13 @@ Recommended example:
 
 ## Repository layout
 
+- `Important file` - file you need
 - `requirements.md` — what you need before starting
 - `flashing_guide.md` — step-by-step install guide
 - `troubleshooting.md` — common issues and fixes
 - `Unlock_bootloader.md` - Unlock bootloader
 - `root.md` - root the phone
-- `contribution.md` - guide on contribution
+- `contribution.md` - guide on contributio
 
 ## Important notes
 
