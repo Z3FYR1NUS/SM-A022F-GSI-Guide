@@ -57,7 +57,7 @@ Recommended example:
 ## Repository layout
 
 - **[requirements.md](requirements.md)**: -— what you need before starting
-- **[Important file](./Important%20file/)** -- Necessary tools
+- **[Important file](./Important%20file/)** -- Necessary file
 - **[Unlock_bootloader.md](Unlock_bootloader.md)**: -- Unlock bootloader
 - **[root.md](root.md)**: -- root the phone
 - **[flashing_guide.md](flashing_guide.md)**: -- step-by-step install guide
