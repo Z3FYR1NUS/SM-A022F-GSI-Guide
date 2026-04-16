@@ -1,4 +1,4 @@
-# Troubleshooting — Samsung Galaxy A02 (SM-A022F / SM-A022F/DS) GSI
+# Troubleshooting — Samsung Galaxy A02 (SM-A022F/DS) GSI
 
 This document covers common issues when installing or running GSIs on the Galaxy A02 and their fixes.
 
