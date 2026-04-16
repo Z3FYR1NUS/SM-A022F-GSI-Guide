@@ -15,3 +15,7 @@
 - Don't need Samsung or Google Account
 - Finish the setup
 - Wait around 15 minutes
+
+## If you already unlock bootloader
+
+- continue to root the phone \*\*[Rooting guide](root.md)
