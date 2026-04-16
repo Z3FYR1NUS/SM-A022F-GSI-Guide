@@ -51,6 +51,7 @@ Recommended example:
 - `requirements.md` — what you need before starting
 - `flashing_guide.md` — step-by-step install guide
 - `troubleshooting.md` — common issues and fixes
+- `Unlock_bootloader.md` - Unlock bootloader
 
 ## Important notes
 
