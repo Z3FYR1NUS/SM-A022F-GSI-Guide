@@ -31,8 +31,8 @@ This document covers common issues when installing or running GSIs on the Galaxy
 - Plug the phone into PC and run
 
 ```powershell
-.\fastboot -w
-.\fastboot reboot
+fastboot -w
+fastboot reboot
 ```
 
 If it persists, reflash with the correct GSI variant for this device:
