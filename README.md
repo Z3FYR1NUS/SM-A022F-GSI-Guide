@@ -56,12 +56,12 @@ Recommended example:
 
 ## Repository layout
 
-- **[requirements.md](requirements.md)**: — what you need before starting
-- **[Important file](./Important%20file/)** - Necessary tools
-- **[Unlock_bootloader.md](Unlock_bootloader.md)**: - Unlock bootloader
-- **[root.md](root.md)**: - root the phone
-- **[flashing_guide.md](flashing_guide.md)**: — step-by-step install guide
-- **[troubleshooting.md](troubleshooting.md)**: - guide on contribution
+- **[requirements.md](requirements.md)**: -— what you need before starting
+- **[Important file](./Important%20file/)** -- Necessary tools
+- **[Unlock_bootloader.md](Unlock_bootloader.md)**: -- Unlock bootloader
+- **[root.md](root.md)**: -- root the phone
+- **[flashing_guide.md](flashing_guide.md)**: -- step-by-step install guide
+- **[troubleshooting.md](troubleshooting.md)**: -- guide on contribution
 
 ## Getting Started
 
