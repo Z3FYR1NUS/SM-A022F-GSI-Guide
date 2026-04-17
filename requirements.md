@@ -40,6 +40,9 @@ You GSI must have these
 - Architecture: `arm32_binder64`
 - Partition compatibility: `ab`
 - Vendor interface: `vndklite`
+
+## Example GSI
+
 - **Repository:** [Phhusson Treble Experimentations (v416)](https://github.com/phhusson/treble_experimentations/releases/tag/v416)
 
 ### Examples:
