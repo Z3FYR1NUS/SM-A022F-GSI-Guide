@@ -193,12 +193,12 @@ Ignore if the flash completes successfully.
 ### Fix
 
 - Wait up to **15 minutes** — first boot on some GSIs takes longer than expected
-- If it persists, reboot to recovery and run `.\fastboot -w`, then reboot
+- If it persists, reboot to recovery and run `fastboot -w`, then reboot
 - Try a GSI with a different display compatibility flag if the issue repeats across reboots
 
 ## 📋 General Tips
 
-- Always run `.\fastboot -w` after flashing a new GSI to wipe userdata cleanly
+- Always run `fastboot -w` after flashing a new GSI to wipe userdata cleanly
 - Keep a backup of your original `boot.img` and `magisk_patched.img`
 - Do not flash GSIs intended for SM-A025F (A02s) or other A0x models — they are not compatible
 - If a GSI build is unstable, try another build from the same source before switching projects
