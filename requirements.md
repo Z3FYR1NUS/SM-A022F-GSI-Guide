@@ -35,11 +35,11 @@ You can use my `InstallADB.bat` script to automate the configuration:
 
 ## Recommended GSI Format
 
-To ensure compatibility with the Samsung A02 architecture, select a GSI matching these specifications:
+To ensure compatibility with the Samsung A02. Please use GSI that match with these specifications.
 
 - **Architecture:** `arm32_binder64`
-- **Partition Type:** `vndklite` (Preferred for stability)
-- **Mount Type:** `ab` (Use only if known to work with your specific partition layout)
+- **Partition Type:** `vndklite`
+- **Mount Type:** `ab`
 - **Repository:** [Phhusson Treble Experimentations (v416)](https://github.com/phhusson/treble_experimentations/releases/tag/v416)
 
 ### Examples:
