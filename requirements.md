@@ -57,7 +57,7 @@ You GSI must have these
 
 - **Original `boot.img`**: Extracted from stock firmware.
 - **Patched `magisk_patched.img`**: For root access.
-- **Stock Firmware**: [Version A022FXXS3BWH1](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1).
+- **Stock Firmware**: [A022FXXS3BWH1](https://samfw.com/firmware/SM-A022F/CAL/A022FXXS3BWH1).
 - **Working GSI Image**: The specific `.img` file used for the current installation.
 
 ---
