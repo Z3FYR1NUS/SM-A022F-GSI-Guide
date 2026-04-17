@@ -6,9 +6,8 @@ This guide will teach you how to install custom GSI on Samsung A02 (SM-A022F/DS)
 - I hate MT6739ww
 - Result may vary, best of luck! :3
 
-> # ⚠️ WARNING ⚠️
->
-> ## THIS WILL VOID YOUR WARRANTY
+> [!WARNING]
+> **THIS WILL VOID YOUR WARRANTY**
 >
 > **This guide is intended for advanced users only.**
 >
@@ -45,41 +44,38 @@ Recommended example:
 
 - `system-squeak-arm32_binder64-ab-vndklite-vanilla.img`
 
+For details on GSI format requirements, see [requirements.md](requirements.md)
+
 ## Files needed
 
-- Samsung firmware package for SM-A022F/DS
-- ADB and Fastboot platform tools
-- Odin
-- Magisk APK
-- GSI image in `.img` format
-- Samsung USB drivers
+- See [requirements.md](requirements.md)
 
 ## Repository layout
 
-- **[requirements.](requirements.md)**: -— what you need before starting
-- **[Important file](./Important%20file/)** -- Necessary file
-- **[Script](./Script/)** -- Script to automate install
-- **[unlock_bootloader](unlock_bootloader.md)**: -- Unlock bootloader
-- **[root](root.md)**: -- root the phone
-- **[flashing guide](flashing.md)**: -- step-by-step install guide
-- **[troubleshooting](troubleshooting.md)**: -- guide on contribution
+- **[requirements.md](requirements.md)** — What you need before starting
+- **[Important file](Important%20file/)** — Necessary files
+- **[Script](Script/)** — Scripts to automate installation
+- **[unlock_bootloader.md](unlock_bootloader.md)** — Unlock bootloader
+- **[root.md](root.md)** — Root the phone
+- **[flashing.md](flashing.md)** — Step-by-step install guide
+- **[troubleshooting.md](troubleshooting.md)** — Common issues and fixes
 
-## Getting Started
+## Installation Workflow
 
-Follow the documentation in this specific order to ensure the best chance of success:
+Follow these steps **in order** for the best chance of success:
 
-1. **[Requirements](requirements.md)**: Verify you have the correct Samsung firmware and the necessary drivers/tools.
-2. **[Unlock Bootloader](unlock_bootloader.md)**: first step.
-3. **[Rooting](root.md)**: Patching the AP file is required to disable AVB (Android Verified Boot)
-4. **[Flashing Guide](flashing.md)**: Step-by-step instructions on using Fastbootd to flash the GSI.
-5. **[Troubleshooting](troubleshooting.md)**: Read this if you encounter any problem post install, good luck!
+- [ ] **Step 1:** Check [requirements.md](requirements.md) — Verify firmware, drivers, and tools
+- [ ] **Step 2:** [Unlock Bootloader](unlock_bootloader.md) — Enable custom firmware installation
+- [ ] **Step 3:** [Root Device](root.md) — Patch AP file to disable AVB
+- [ ] **Step 4:** [Flash GSI](flashing.md) — Install the custom system image
+- [ ] **Step 5:** [Troubleshoot](troubleshooting.md) — If needed
 
 ## Important notes
 
-- Use the exact firmware and model for your device.
-- Always keep a backup of your working boot image.
-- Do not flash images for A02s or other A0x devices.
-- If the image is compressed (`.xz`), extract it first to get the raw `.img`.
+- Use the exact firmware and model for your device
+- Always keep a backup of your working boot image
+- Do not flash images for A02s or other A0x devices
+- If the image is compressed (`.xz`), extract it first to get the raw `.img`
 
 ## Credits
 
