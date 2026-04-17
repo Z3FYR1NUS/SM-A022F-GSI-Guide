@@ -14,7 +14,7 @@
 - Connect to Wi-Fi
 - Don't need Samsung or Google Account
 - Finish the setup
-- Wait around 15 minutes
+- Wait around 15 minutes for `KG STATUS` to change from `Lock` to `Checking`
 
 ## If you already unlock bootloader
 
