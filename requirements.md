@@ -4,9 +4,7 @@
 
 - Samsung Galaxy A02
 - Model: SM-A022F/DS
-- Bootloader unlocked
 - USB debugging enabled
-- OEM unlocking enabled in Developer Options
 
 ## PC Tools
 
