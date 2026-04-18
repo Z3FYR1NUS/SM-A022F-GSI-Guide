@@ -24,7 +24,7 @@ system-squeak-arm32_binder64-ab-vndklite-vanilla.img
 
 - Power off, Hold Volume up + Down, connect to PC.
 - Open Odin and uncheck `Auto Reboot` in Options.
-- Flash `vbmetar.tar` in AP slot. (get that in **[Important file](./Important%20file/)** )
+- Flash `vbmeta.tar` in AP slot. (get that in **[Important file](./Important%20file/)** )
 - Click start
 
 ## Step 3 — Flash Fastbootd
