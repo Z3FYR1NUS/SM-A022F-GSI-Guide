@@ -202,3 +202,13 @@ Ignore if the flash completes successfully.
 - Keep a backup of your original `boot.img` and `magisk_patched.img`
 - Do not flash GSIs intended for SM-A025F (A02s) or other A0x models — they are not compatible
 - If a GSI build is unstable, try another build from the same source before switching projects
+
+## 🔒 10. Recovery
+
+- If you got blue screen with `an error has occurred while updating device software`
+- You can reflash the original OS via ODIN
+- Put these file in the slot
+- BL: `BL_A022FXXS3BWH1_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT.tar.md5`
+- AP: `AP_A022FXXS3BWH1_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT_meta_RKEY_OS11.tar.md5`
+- CP: `CP_A022FXXS3BWH1_CP24789634_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT.tar.md5`
+- CSC: `CSC_OMC_OLM_A022FOLM3BWH1_CL24267853_QB69446539_REV00_user_low_ship_MULTI_CERT.tar.md5`
